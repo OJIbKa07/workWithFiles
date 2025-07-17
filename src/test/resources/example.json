@@ -1,0 +1,15 @@
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": {
+    "main_color": "yellow",
+    "shade": "lemony"
+  },
+  "null": null,
+  "number": 123,
+  "string": "Hello World"
+}
