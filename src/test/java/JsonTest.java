@@ -12,7 +12,7 @@ import java.io.Reader;
 public class JsonTest {
     private ClassLoader cl = JsonTest.class.getClassLoader();
 
-    @TestFactory
+    @Test
     void testJsonStructure() throws Exception {
         JsonFactory factory = new JsonFactory();
 
